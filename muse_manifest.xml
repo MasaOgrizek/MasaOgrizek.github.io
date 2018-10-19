@@ -1,0 +1,371 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ogrizekmasa.com" resolutions="1x" timestamp="1539973522491">
+  <folder name="css">
+    <file name="site_global.css" crc="4109446632"/>
+    <file name="tiskovne.css" crc="4166330354" ref="tiskovne"/>
+    <file name="po-naro_ilu.css" crc="4066407250" ref="po-naročilu"/>
+    <file name="vabila.css" crc="236237242" ref="vabila"/>
+    <file name="koko-kri_na.css" crc="4114596819" ref="koko-krišna"/>
+    <file name="avtorske.css" crc="4203176649" ref="avtorske"/>
+    <file name="knjige.css" crc="4253056272" ref="knjige"/>
+    <file name="medijski-odzivi.css" crc="4136809035" ref="medijski-odzivi"/>
+    <file name="index.css" crc="57018796" ref="index"/>
+    <file name="revijalne-objave.css" crc="104683659" ref="revijalne-objave"/>
+    <file name="projekti.css" crc="4131840623" ref="projekti"/>
+    <file name="foto-pres.css" crc="361106423" ref="foto-pres"/>
+    <file name="sinja-rde_a.css" crc="235155623" ref="sinja-rdeča"/>
+    <file name="predstavitve-knjig.css" crc="3933124639" ref="predstavitve-knjig"/>
+    <file name="krasna-zgodba.css" crc="258992319" ref="krasna-zgodba"/>
+    <file name="intervjuji.css" crc="344621088" ref="intervjuji"/>
+    <file name="kontakt.css" crc="128996616" ref="kontakt"/>
+    <file name="gospa-s-klobukom.css" crc="71353252" ref="gospa-s-klobukom"/>
+    <file name="knji_ne-recenzije.css" crc="142493997" ref="knjižne-recenzije"/>
+    <file name="po-_olah.css" crc="3909297068" ref="po-šolah"/>
+    <file name="slon.css" crc="125502868" ref="slon"/>
+    <file name="koko-dajsa.css" crc="275220522" ref="koko-dajsa"/>
+    <file name="nagrade.css" crc="398516085" ref="nagrade"/>
+  </folder>
+  <folder name="assets">
+    <file name="_k2b1706_resized_20181015_014802726.jpg" crc="312892960" seo="true" mt="1539604134000"/>
+    <file name="dobroduhci-tema-01---kopija.tif" crc="457586145" seo="true" mt="1539880769000"/>
+    <file name="dobroduhci-tema-02---kopija.tif" crc="174456920" seo="true" mt="1539880777000"/>
+    <file name="dobroduhci-tema-02---kopija2.tif" crc="358679305" seo="true" mt="1539880931000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="museutils.js" crc="4216313831" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="require.js" crc="3951022091" ref="index:projekti:knjige:po-naročilu:avtorske:revijalne-objave:predstavitve-knjig:kontakt:po-šolah:tiskovne:vabila:medijski-odzivi:foto-pres:intervjuji:knjižne-recenzije:nagrade:koko-dajsa:gospa-s-klobukom:krasna-zgodba:koko-krišna:slon:sinja-rdeča"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="po-šolah:tiskovne"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-8.png" crc="481799253" ref="index"/>
+    <file name="pasted image 400x374.jpg" crc="3808703617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisscc0-vintage-clothing-top-hat-antique-bowler-hat-top-hat-5b3e4973e96e163397620115308086919561.png" crc="288997056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 2880x1920986x658.jpg" crc="3998769232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 2880x1920-crop-u2798.jpg" crc="3978705154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1025-4.png" crc="3967424510" ref="index"/>
+    <file name="36239973_965951650234113_4836152451109224448_o.jpg" crc="4247299162" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="p1010010.jpg" crc="382302487" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="p6050041.jpg" crc="522699277" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="25358430_2048994418655342_687641979750438227_o.jpg" crc="473804150" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="20424084_980162028792994_411170770124220223_o.jpg" crc="4053672544" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13346566_1791528804401906_7974125040649319242_n.jpg" crc="3918333620" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="14355607_1836123036609149_8733672492080751734_n.jpg" crc="3843652030" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13055948_1772279319660188_4101032567591615275_o.jpg" crc="3949631484" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="1539609421230blob.jpg" crc="4158360992" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="58a1ea43c8dd3432c6fa81c9.png" crc="4157144048" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u172-4.png" crc="3821146798" ref="projekti"/>
+    <file name="dsc_3510a.jpg" crc="160399446" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u223-4.png" crc="204135416" ref="projekti"/>
+    <file name="41350777_1035573439938600_6623628620348784640_n.jpg" crc="157296729" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u261-4.png" crc="97563158" ref="projekti"/>
+    <file name="p1010002.jpg" crc="531203568" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u300-4.png" crc="361984155" ref="projekti"/>
+    <file name="p6050123a.jpg" crc="4089499626" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u333-4.png" crc="4137304160" ref="projekti"/>
+    <file name="25395808_2048994521988665_3948114019348866869_n.jpg" crc="1231056" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="25398158_2048994501988667_7379628541828299666_o.jpg" crc="475843614" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="20424244_980161342126396_6913313142416068550_o.jpg" crc="4119083739" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13412058_1791528984401888_7916862074818443421_o.jpg" crc="482764240" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="16402552_1899536586934460_2249599894092179566_o.jpg" crc="277959438" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13076880_1772279496326837_1915815190836867974_n.jpg" crc="4148122717" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13086947_1772279352993518_5177516544086565773_o.jpg" crc="3936053225" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="pasted image 435x450.jpg" crc="3886543108" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="p1010029.jpg" crc="481494033" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="u2654-4.png" crc="4045326854" ref="projekti"/>
+    <file name="pasted image 1400x2981.jpg" crc="4036056965" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="dsc_3411.jpg" crc="3804854360" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="p6050097a.jpg" crc="297932929" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="20449114_980160942126436_1178582913498346560_o.jpg" crc="329190288" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="13412153_1789920547896065_6711903275312344363_o.jpg" crc="522121739" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="1539609469965blob.jpg" crc="4075952760" seo="true" ref="projekti">
+      <caption webpage="projekti" alt=""/>
+    </file>
+    <file name="pasted image 1920x1203.jpg" crc="3889464066" seo="true" ref="knjige">
+      <caption webpage="knjige" alt=""/>
+    </file>
+    <file name="pasted image 475x663.jpg" crc="3845816915" seo="true" ref="knjige">
+      <caption webpage="knjige" alt=""/>
+    </file>
+    <file name="u760-6.png" crc="3876085092" ref="po-naročilu"/>
+    <file name="35210660_2137558693132247_8520320739864215552_n.jpg" crc="4073136656" seo="true" ref="po-naročilu">
+      <caption webpage="po-naročilu" alt=""/>
+    </file>
+    <file name="35226259_2137558836465566_983742360565317632_n.jpg" crc="4130134007" seo="true" ref="po-naročilu">
+      <caption webpage="po-naročilu" alt=""/>
+    </file>
+    <file name="35297223_2137558749798908_1463059886165196800_o.jpg" crc="4130495892" seo="true" ref="po-naročilu">
+      <caption webpage="po-naročilu" alt=""/>
+    </file>
+    <file name="d5187792127d72930f5aaccf610b1b96.jpg" crc="3857757999" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="17098558_1913084995579619_3449273229642008716_n.jpg" crc="4005268423" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="slon-na-drevesu679400s.jpg" crc="3942193812" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="pasted image 1400x298160x127.jpg" crc="3790617857" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+      <caption webpage="avtorske" alt=""/>
+      <caption webpage="avtorske" alt=""/>
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="gospa s klobukom _1.jpg" crc="409940076" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="koko-krisna679400s.jpg" crc="4091516337" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="sinjerdeca-cover.jpg" crc="294363561" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="pasted image 1400x298160x128.jpg" crc="82203710" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="pasted image 1400x298154x115.jpg" crc="178133920" seo="true" ref="avtorske">
+      <caption webpage="avtorske" alt=""/>
+    </file>
+    <file name="zgodbe o pohistvu_2.jpg" crc="457886655" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o pohistvu_3.jpg" crc="4062238522" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o pohistvu_4.jpg" crc="3925616845" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o pohistvu_9.jpg" crc="4226027712" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o aparatih_9_sep.jpg" crc="260691705" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o aparatih_11_nov.jpg" crc="4187977781" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o aparatih_06_2018.jpg" crc="215876225" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="zgodbe o aparatih_06a_2018.jpg" crc="3998864347" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="dobroduhci tema 01 - kopija.jpg" crc="4117280213" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="dobroduhci tema 02 - kopija.jpg" crc="13739432" seo="true" ref="revijalne-objave">
+      <caption webpage="revijalne-objave" alt=""/>
+    </file>
+    <file name="u1369-8.png" crc="432789531" ref="po-šolah"/>
+    <file name="35972607_2029772170386945_5078059255626465280_o.jpg" crc="4280078525" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="20170922_111931-1.jpg" crc="3808507464" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="22181399_2015161645371953_5810681267586026222_o.jpg" crc="3903540794" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="27503679_2073122929575824_3333942474869170052_o.jpg" crc="3975051292" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="27544848_2073122842909166_1624601014181791594_n.jpg" crc="3763416648" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="27858592_2078588009029316_3853436041060914764_n.jpg" crc="63947796" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="1539608397513blob.jpg" crc="127360267" seo="true" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="27747698_2073123102909140_3782215723985910215_o.jpg" crc="35013339" ref="po-šolah">
+      <caption webpage="po-šolah" alt=""/>
+    </file>
+    <file name="17880392_1934413916780060_5107331782447336166_o.jpg" crc="230344082" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="17917268_1934445493443569_8895608624311814574_o (1).jpg" crc="191822006" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="18768468_1958173114404140_640442459097836484_o.jpg" crc="3789335566" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="18815184_1958173144404137_953967569207865278_o.jpg" crc="103872385" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="du-bop 1.jpg" crc="4139349775" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="du-bop 2.jpg" crc="4198914080" seo="true" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="kinošiška.jpg" crc="522650306" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="41784478_2221921068029342_5215088224405291008_o.jpg" crc="3798081941" ref="tiskovne">
+      <caption webpage="tiskovne" alt=""/>
+    </file>
+    <file name="41032906_1898011513839821_4722870124581748736_o.jpg" crc="4208789780" seo="true" ref="vabila">
+      <caption webpage="vabila" alt=""/>
+    </file>
+    <file name="vabilo du-bop spredaj (1).jpg" crc="3930292729" seo="true" ref="vabila">
+      <caption webpage="vabila" alt=""/>
+    </file>
+    <file name="file.jpg" crc="372886718" seo="true" ref="vabila">
+      <caption webpage="vabila" alt=""/>
+    </file>
+    <file name="vabilo-2.jpg" crc="3893152289" seo="true" ref="vabila">
+      <caption webpage="vabila" alt=""/>
+    </file>
+    <file name="pasted image 2880x1920938x626.jpg" crc="204682616" seo="true" ref="foto-pres">
+      <caption webpage="foto-pres" alt=""/>
+    </file>
+    <file name="u2587-4.png" crc="4268064930" ref="foto-pres"/>
+    <file name="u1874-8.png" crc="3866474119" ref="knjižne-recenzije"/>
+    <file name="17807663_1931492170405568_4619551439108828961_o.jpg" crc="3995159294" seo="true" ref="koko-dajsa">
+      <caption webpage="koko-dajsa" alt=""/>
+    </file>
+    <file name="16473232_1901908686697250_3591936096308785556_n.jpg" crc="3878703233" seo="true" ref="koko-dajsa">
+      <caption webpage="koko-dajsa" alt=""/>
+    </file>
+    <file name="gospa s klobukom4.jpg" crc="3875022433" seo="true" ref="gospa-s-klobukom">
+      <caption webpage="gospa-s-klobukom" alt=""/>
+    </file>
+    <file name="gospa s klobukom17.jpg" crc="468786875" seo="true" ref="gospa-s-klobukom">
+      <caption webpage="gospa-s-klobukom" alt=""/>
+    </file>
+    <file name="gospa s klobukom12.jpg" crc="468287392" seo="true" ref="gospa-s-klobukom">
+      <caption webpage="gospa-s-klobukom" alt=""/>
+    </file>
+    <file name="gospa s klobukom22.jpg" crc="400710053" seo="true" ref="gospa-s-klobukom">
+      <caption webpage="gospa-s-klobukom" alt=""/>
+    </file>
+    <file name="ilustracija.jpg" crc="3862593099" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="kz01.jpg" crc="4018533976" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="pasted image 553x751.jpg" crc="56774363" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="pasted image 553x7512.jpg" crc="3939708610" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="pasted image 553x7513.jpg" crc="4091506919" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="pasted image 553x7514.jpg" crc="107258248" seo="true" ref="krasna-zgodba">
+      <caption webpage="krasna-zgodba" alt=""/>
+    </file>
+    <file name="u2227-6.png" crc="19447901" ref="koko-krišna"/>
+    <file name="10178026_903431709777648_5917163150164480262_n.jpg" crc="3822025406" seo="true" ref="koko-krišna">
+      <caption webpage="koko-krišna" alt=""/>
+    </file>
+    <file name="12573137_903434983110654_7237754709904451250_n.jpg" crc="321832488" seo="true" ref="koko-krišna">
+      <caption webpage="koko-krišna" alt=""/>
+    </file>
+    <file name="masa-in-krisna-02-2-1024x680.jpg" crc="362125688" seo="true" ref="koko-krišna">
+      <caption webpage="koko-krišna" alt=""/>
+    </file>
+    <file name="27629251_2073275889560528_4520980720584441222_o.jpg" crc="231781627" seo="true" ref="slon">
+      <caption webpage="slon" alt=""/>
+    </file>
+    <file name="27624695_2073253712896079_5946835970161590197_o.jpg" crc="4171441079" seo="true" ref="slon">
+      <caption webpage="slon" alt=""/>
+    </file>
+    <file name="27629239_2073253666229417_7232067327722291351_o.jpg" crc="3930299767" seo="true" ref="slon">
+      <caption webpage="slon" alt=""/>
+    </file>
+    <file name="u2233-6.png" crc="470178852" ref="sinja-rdeča"/>
+  </folder>
+  <file name="index.html" crc="4141709910" seo="true" mt="1539973410590" redirect="true"/>
+  <file name="projekti.html" crc="20027422" seo="true" mt="1539964298717" redirect="true"/>
+  <file name="knjige.html" crc="3976076241" seo="true" mt="1539963207510" redirect="true"/>
+  <file name="po-naročilu.html" crc="261412308" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="avtorske.html" crc="429624719" seo="true" mt="1539963194600" redirect="true"/>
+  <file name="revijalne-objave.html" crc="513798784" seo="true" mt="1539963384232" redirect="true"/>
+  <file name="predstavitve-knjig.html" crc="176955940" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="kontakt.html" crc="365528529" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="po-šolah.html" crc="239634683" seo="true" mt="1539964533041" redirect="true"/>
+  <file name="tiskovne.html" crc="419486455" seo="true" mt="1539964551031" redirect="true"/>
+  <file name="vabila.html" crc="4092385369" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="medijski-odzivi.html" crc="460246560" seo="true" mt="1539964362181" redirect="true"/>
+  <file name="foto-pres.html" crc="4190930749" seo="true" mt="1539964988715" redirect="true"/>
+  <file name="intervjuji.html" crc="3769037588" seo="true" mt="1539965631310" redirect="true"/>
+  <file name="knjižne-recenzije.html" crc="4068808283" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="nagrade.html" crc="4273023499" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="koko-dajsa.html" crc="8279792" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="gospa-s-klobukom.html" crc="129936305" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="krasna-zgodba.html" crc="246764196" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="koko-krišna.html" crc="3890891961" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="slon.html" crc="4213946663" seo="true" mt="1539926676209" redirect="true"/>
+  <file name="sinja-rdeča.html" crc="3991470356" seo="true" mt="1539926676209" redirect="true"/>
+</manifest>
